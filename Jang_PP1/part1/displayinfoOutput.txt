@@ -1,0 +1,4 @@
+Hello, junjang
+Current date is Sat Feb 26 16:07:18 CST 2022
+User is junjang
+Current directory /home/TTU/junjang
